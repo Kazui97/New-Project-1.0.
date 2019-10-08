@@ -279,7 +279,7 @@ MonoBehaviour:
   varx: 5
   vary: 5
   buey: {fileID: 2649265365907945968, guid: a649b96bbb462434c988f62a2bdd0937, type: 3}
-  palomo: {fileID: 0}
+  palomo: {fileID: 2597264959916040586, guid: 431e35b479b7e0347bb2a813789d329b, type: 3}
   mono: {fileID: 0}
   dragon: {fileID: 0}
 --- !u!1 &1752246353
